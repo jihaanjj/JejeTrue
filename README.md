@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihaanjj&label=Profile%20views&color=0e75b6&style=flat" alt="jihaanjj" /> </p>
 
-- 🌱 I’m currently learning **Angular, .NET, and Cyber Security**
+- 🌱 I’m currently learning **Laravel, Next JS, Typescript**
 
 - 📫 How to reach me **jihaanjasminejahroo@gmail.com**
 
